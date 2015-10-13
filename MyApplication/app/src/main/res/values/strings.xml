@@ -5,6 +5,8 @@
     <string name="click_me">Click me!</string>
     <string name="dont_click_me">Dont click me!</string>
     <string name="title">Beer Types</string>
+    <string name="text">texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto </string>
+    <string name="beer_name">Lager</string>
 
     <bool name="is_true">true</bool>
     <integer name="years">27</integer>
