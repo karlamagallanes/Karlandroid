@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="hello_world">Hello World</string>
+    <string name="name">Karla</string>
+    <string name="click_me">Click me!</string>
+    <string name="dont_click_me">Dont click me!</string>
+    <string name="title">Beer Types</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <bool name="is_true">true</bool>
+    <integer name="years">27</integer>
 </resources>
