@@ -10,4 +10,5 @@
 
     <bool name="is_true">true</bool>
     <integer name="years">27</integer>
+    <string name="title_activity_intent">Intent</string>
 </resources>
