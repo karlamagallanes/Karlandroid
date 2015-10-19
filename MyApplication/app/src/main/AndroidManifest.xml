@@ -16,8 +16,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Intent"
-            android:label="@string/title_activity_intent"
+            android:name=".SenderActivity"
+            android:label="@string/title_activity_sender"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".ReceiverActivity"
+            android:label="@string/title_activity_receiver"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
     </application>
