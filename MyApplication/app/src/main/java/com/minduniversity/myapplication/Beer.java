@@ -24,7 +24,7 @@ public class Beer implements Parcelable {
     private void readFromParcel(Parcel in) {
     }
 
-    public static final Parcelable.Creator CREATOR =
+  /*  public static final Parcelable.Creator CREATOR =
             new Parcelable.Creator() {
                 public Beer createFromParcel(Parcel in) {
                     return new Beer(in);
@@ -33,14 +33,14 @@ public class Beer implements Parcelable {
                 public Beer[] newArray(int size) {
                     return new Beer[size];
                 }
-            };
-    public static Creator<Beer> CREATOR =  new Creator<Beer>{
+            };*/
+    //public static Creator<Beer> CREATOR =  new Creator<Beer>{
 
-    public Beer createFromParcel(Parcel source)
+   /* public Beer createFromParcel(Parcel source)
     {
         return new Beer(source);
-    }
-}
+    }*/
+
 
     @Override
     public int describeContents() {
