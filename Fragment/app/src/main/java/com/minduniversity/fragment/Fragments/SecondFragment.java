@@ -27,6 +27,7 @@ public class SecondFragment extends Fragment {
         return fragment;
     }
 
+
     public SecondFragment() {
         // Required empty public constructor
     }
